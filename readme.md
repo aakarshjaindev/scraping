@@ -37,7 +37,6 @@ This repository showcases a web scraping project using Python, BeautifulSoup, Se
               ## Contact Information
 
               - **Name**: Aakarsh Jain
-              - **LinkedIn**: [Aakarsh Jain's LinkedIn Profile](https://www.linkedin.com/in/aakarsh_Jain)
               - **Email**: aakarsh_jain@outlook.com
 
               ---
