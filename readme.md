@@ -24,12 +24,6 @@ This repository showcases a web scraping project using Python, BeautifulSoup, Se
 - Selenium: Used for interacting with dynamic websites.
 - Scrapy: A comprehensive web scraping framework.
 
-- **Project Showcase**:
-- Demonstrates proficiency in web scraping techniques.
-- Highlights automation skills using Scrapy.
-- Showcases the structure and usage of a Scrapy project for more complex scenarios.
-
----
 
 **Note**: Ensure compliance with the terms of service and legal regulations while using web scraping techniques.
 
