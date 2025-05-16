@@ -1,4 +1,3 @@
-craping Project Showcase
 
 ## Overview
 
@@ -9,17 +8,6 @@ craping Project Showcase
 - **Scrapy Project**:
 - **Spiders**: Contains spiders for Scrapy, a comprehensive web scraping framework.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Virtual Environment
-- Install dependencies using `pip install -r requirements.txt`
-
-## Additional Information
-
-- **Tools Used**:
 - BeautifulSoup: For parsing HTML and extracting data.
 - Selenium: Used for interacting with dynamic websites.
 - Scrapy: A comprehensive web scraping framework.
