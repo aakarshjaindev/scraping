@@ -2,7 +2,7 @@ craping Project Showcase
 
 ## Overview
 
-This repository showcases a web scraping project using Python, BeautifulSoup, Selenium, and Scrapy. The project is designed to extract information from a target website and demonstrates proficiency in web scraping, data extraction, and automation.
+ Python, BeautifulSoup, Selenium, and Scrapy. The project is designed to extract information from a target website and demonstrates proficiency in web scraping, data extraction, and automation.
 
 ## Project Structure
 
